@@ -1,0 +1,30 @@
+
+.border-danger {
+    border: solid #d9534f 1px;
+}
+
+.border-success {
+    border: solid #5cb85c 1px;
+}
+
+.inner-text {
+    height: 100%;
+    width: 100%;
+}
+
+.inner-text span {
+    max-width: 100%;
+    color: red;
+}
+
+.inner-text--3{
+    display:flex;
+    justify-content:center;
+    margin-top:70px;
+    font-size:50px;
+    font-weight:700
+}
+
+.justify-word {
+    word-wrap: break-word;
+}
